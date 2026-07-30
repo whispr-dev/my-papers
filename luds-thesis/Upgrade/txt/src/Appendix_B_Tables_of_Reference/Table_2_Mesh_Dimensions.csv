@@ -1,0 +1,12 @@
+Requirement,Level I,Level II,Level III,Level IV
+Maximum Mesh Dimension (m),5,10,15,20
+Mesh Conductor Minimum Diameter (mm),10-12,8-10,6-8,6-8
+Down Conductor Spacing Max (m),10,15,20,25
+Distance Between Roof Terminals (m),5-8,8-12,12-15,15-20
+Vertical Conductor Spacing (m),5-8,8-12,12-15,15-20
+Horizontal Loop Spacing (m),5,10,15,20
+Corner Terminal Spacing (m),3-5,5-8,8-10,10-12
+Field Connection Points per 50 m (min),2-3,1-2,1,1 (optional)
+Horizontal Conductor Min Section (mm²),50-70,40-50,35-40,35-40
+Vertical Conductor Min Section (mm²),70-100,50-70,40-50,40-50
+External Bonding Points Max Spacing (m),5,10,15,20

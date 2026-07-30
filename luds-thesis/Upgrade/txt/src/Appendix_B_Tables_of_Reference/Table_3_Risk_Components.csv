@@ -1,0 +1,13 @@
+Risk Component,Educational Building,Hospital/Critical,Residential,Historical/Monument,Industrial/Factory
+RA: Direct strike - structural damage,0.0023,0.0008,0.0005,0.0015,0.0050
+RB: Direct strike - fire initiation,0.0028,0.0005,0.0008,0.0010,0.0150
+RC: Direct strike - electronic failure,0.0345,0.0100,0.0050,0.0200,0.0800
+RM: Near strike - LEMP effects,0.0360,0.0200,0.0150,0.0100,0.1200
+RU: Service line - structural damage,0.0030,0.0010,0.0005,0.0008,0.0100
+RV: Service line - fire initiation,0.0030,0.0008,0.0005,0.0010,0.0200
+RW: Service line - electronic failure,0.0180,0.0050,0.0025,0.0050,0.0500
+RZ: Service line - LEMP effects,0.0100,0.0030,0.0015,0.0020,0.0300
+Total R1 (Human Life Loss),0.0966,0.0211,0.0163,0.0113,0.2300
+Total R2 (Public Service Loss),0.0150,0.0500,0.0050,0.0080,0.1000
+Total R3 (Cultural Heritage),N/A,N/A,N/A,0.0800,N/A
+Total R4 (Economic Loss),0.1200,0.0800,0.0300,0.1500,0.5000

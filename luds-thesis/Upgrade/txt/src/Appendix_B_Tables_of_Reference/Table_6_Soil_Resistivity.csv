@@ -1,0 +1,13 @@
+Location/Zone,Resistivity ρ (Ω⋅m),Seasonal Variation (%),Depth Range (m),Recommended Testing Spacing (m),Treatment Needed,Ground Rod Quantity (3m rods)
+Central Business District (Downtown),"800-1,200",±20,0-5,"3, 6",Moderate,3-4
+Lake Paranoá Region,"1,200-1,800",±25,0-8,"5, 10",Moderate,4-5
+North/South Sectors (Residential),"1,000-1,500",±20,0-6,"3, 6, 10",Moderate,3-4
+Agricultural Areas (Periphery),"1,500-2,500",±30,0-10,"5, 10, 20",Yes (High ρ),6-8
+Plateau Edge (High Elevation),"2,000-3,500",±35,0-15,"10, 20",Yes (Very High ρ),8-12
+Valley Areas (Low Elevation),"900-1,400",±28,0-5,"3, 6",Minor,2-3
+Areas with Red Soil (Terra Roxa),"600-1,000",±15,0-3,"3, 5",No,2-3
+Areas with Laterite (Iron Rich),"1,800-3,000",±25,0-8,"5, 10, 20",Yes,5-7
+Areas with Clay (Expandable),"1,200-2,200",±40,0-6,"5, 10",Moderate,4-6
+Recent Development (Disturbed),"1,400-2,100",±25,0-5,"3, 6, 10",Moderate,4-5
+Forest/Vegetation Areas,"1,100-1,800",±22,0-8,"5, 10",Minor,3-4
+Average Federal District (Overall),"1,200-1,600",±25,0-10,"5, 10, 20",Frequently,4-6

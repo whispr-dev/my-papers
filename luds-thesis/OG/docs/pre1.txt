@@ -1,0 +1,49 @@
+list of key terms with brief descriptors:
+
+Lightning Protection System (LPS): A complete system designed to protect structures and their occupants from the effects of lightning by intercepting, conducting, and safely dissipating its energy into the ground.
+
+Sistema de Proteção contra Descargas Atmosféricas (SPDA): The Portuguese term for Lightning Protection System, commonly used in Brazilian standards and engineering contexts.
+
+ABNT (Associação Brasileira de Normas Técnicas): The Brazilian Association of Technical Standards, responsible for creating and maintaining technical and safety standards in Brazil.
+
+NBR 5419:2015: A Brazilian technical standard outlining guidelines and requirements for the design and implementation of lightning protection systems.
+
+Faraday Cage: An enclosure formed by conductive material or a mesh of such material that blocks electromagnetic fields, often used for shielding sensitive equipment.
+
+Franklin Rod: A type of lightning rod, named after Benjamin Franklin, used to attract lightning and safely direct its energy to the ground.
+
+Electromagnetic Pulse (EMP): A burst of electromagnetic energy caused by natural phenomena like lightning or man-made events, capable of disrupting electrical systems.
+
+Surge Protection Device (SPD): Equipment designed to protect electrical systems and devices from voltage spikes caused by lightning or other power surges.
+
+Grounding System: A network of conductors and rods that safely dissipate electrical energy from lightning strikes into the earth.
+
+Air Termination System: The component of an LPS that intercepts lightning strikes, typically consisting of rods, cables, or mesh placed on a structure's roof.
+
+Down Conductor System: Conductors that transfer lightning current from the air termination system to the grounding system.
+
+Risk Assessment: The process of evaluating potential hazards associated with lightning strikes and determining the level of protection required.
+
+Multi-point Grounding: A grounding approach where multiple grounding points are interconnected to improve safety and current dissipation.
+
+Cone of Protection: The theoretical area around a lightning rod or air terminal that is protected from direct lightning strikes, shaped like an inverted cone.
+
+IEC (International Electrotechnical Commission): A global standards organization that publishes standards for electrical, electronic, and related technologies.
+
+Building Integrity: The ability of a structure to maintain safety and functionality, even in adverse conditions like lightning strikes.
+
+Structural Protection: Measures taken to protect a building’s framework from damage caused by lightning or electrical surges.
+
+Probabilistic Risk Models: Models used to estimate the likelihood and consequences of lightning strikes to assess protection requirements.
+
+Corrosion Resistance: The ability of materials, such as those used in LPS components, to withstand degradation from environmental factors.
+
+Tinned Copper: A type of copper coated with tin, commonly used in LPS systems for its corrosion resistance and conductivity.
+
+High-Current Dissipation: The process of safely dispersing high levels of electrical current, such as from a lightning strike, into the ground.
+
+Electrical Systems Protection: Strategies and devices used to safeguard electrical systems from damage caused by lightning, surges, and other disturbances.
+
+
+
+#####

@@ -1,0 +1,13 @@
+Application,Copper (mm²),Aluminum (mm²),Steel Galvanized (mm²),Steel Stainless 316 (mm²),Typical Diameter (mm)
+Main Down Conductor (Level I),70-100,120-150,150-200,100-120,10-12
+Main Down Conductor (Level II),50-70,85-100,100-150,70-85,8-10
+Main Down Conductor (Level III),40-50,70-85,85-100,50-70,7-8
+Main Down Conductor (Level IV),35-40,60-70,70-85,40-50,6-7
+Mesh Conductor (Level I),50-70,85-100,100-150,70-85,8-10
+Mesh Conductor (Level II),35-50,60-85,70-100,50-70,6-8
+Mesh Conductor (Level III),25-35,50-70,50-85,40-50,5-6
+Mesh Conductor (Level IV),25-35,50-70,50-85,35-50,5-6
+Grounding Electrode (All levels),50-70,85-100,100-150,70-85,8-10
+Bonding Strap (Equipotential),16-25,25-35,40-50,20-25,4-5
+Service Line Protection,25-35,50-70,70-100,50-70,5-6
+TV/Communication Lines,10-16,16-25,25-50,10-16,3-4

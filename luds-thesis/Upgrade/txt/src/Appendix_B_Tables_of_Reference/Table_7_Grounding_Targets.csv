@@ -1,0 +1,14 @@
+Application Type,Target Rg (Ω),Maximum Acceptable (Ω),Verification Method,Testing Frequency,Re-testing After,NBR 5419 Part
+Hospitals/Life Safety,<5,5-10,Fall-of-Potential,Annual,Structural changes,"Part 3, 4"
+Data Centers/IT Facilities,<10,10-20,Fall-of-Potential,Annual,Severe weather,"Part 3, 4"
+Educational Buildings (Law School),<10,10-15,Stakeless (Clamp),Bi-annual,Major SPDA work,"Part 3, 4"
+Public Administration (Government),<5,5-10,Fall-of-Potential,Annual,Infrastructure upgrade,"Part 3, 4"
+Industrial Manufacturing,<5,5-10,Fall-of-Potential,Annual,Storm damage,"Part 3, 4"
+Telecommunications Facilities,<5,5-10,Clamp/Continuity,Semi-annual,System modification,"Part 3, 4"
+Airport/Air Traffic Control,<3,3-5,Fall-of-Potential,Annual,Environmental work,"Part 3, 4"
+Fire Stations/Emergency,<5,5-10,Fall-of-Potential,Annual,Strike event,"Part 3, 4"
+Commercial/Office Buildings,<10,15-20,Stakeless,Every 2 years,Major renovation,"Part 3, 4"
+Residential/Apartment,<20,25-30,Continuity Check,Every 3 years,Lightning strike,Part 3
+Historic Monuments,<5,5-10,Fall-of-Potential,Annual,Any modification,"Part 3, 4"
+Power Substations,<1,1-2,Fall-of-Potential,Semi-annual,Maintenance work,IEC 62305
+Petrol/Chemical Storage,<1,1-2,Fall-of-Potential,Quarterly,Upgrades,"Part 3, 4"
